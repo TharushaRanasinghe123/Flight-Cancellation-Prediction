@@ -10,7 +10,7 @@ The SVM model significantly outperformed the KNN model, achieving a high accurac
 
 ## Results
 
-- Our preliminary results demonstrate excellent performance in predicting flight cancellations using the K-Nearest Neighbour (KNN) model.
+- Our preliminary results demonstrate excellent performance in predicting flight delays and cancellations using the Support Vector Machine (SVM) model.
 
 ### Using KNN
 
@@ -21,7 +21,7 @@ The SVM model significantly outperformed the KNN model, achieving a high accurac
 
 ### Using SVM
 
-- Accuracy: 0.96
+- Accuracy: 0.99
 - Precision: 0.98            
 - Recall: 0.96
 - F1 Score: 0.97
